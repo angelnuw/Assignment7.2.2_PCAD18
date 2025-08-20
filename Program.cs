@@ -39,7 +39,7 @@ namespace Assignment7._2._2
             // Example usage
             string input = ("Hippopotomus");
             string result = ReverseVowles(input);
-            Console.WriteLine(result); // Output: "Holle Werld!"
+            Console.WriteLine(result);
         }
     }
 }
